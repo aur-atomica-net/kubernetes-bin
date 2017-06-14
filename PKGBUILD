@@ -21,7 +21,7 @@ backup=('etc/kubernetes/apiserver'
 	'etc/kubernetes/proxy'
 	'etc/kubernetes/scheduler')
 install=kubernetes.install
-sha256sums=('8f38e71b1c68d69299af86ab4432297ae0d72cdee1d1e1c9975d77e448096c9c'
+sha256sums=('68809d34d3429685eaafedf398f690bba1bcc1f793cd2d8193559b90492c68b1'
             'ab36d4243baf8cd47aba94f22f4c41a2980cf2ffca51ccda28b1e7685f500282'
             'f40b4b14a71f8138de69021e967d993e8b14db2cebe66eee20c7e66839ad1fde')
 
