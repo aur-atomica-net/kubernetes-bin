@@ -1,5 +1,5 @@
 pkgname=kubernetes-bin
-pkgver=1.6.5
+pkgver=1.7.1
 _contribver=0.7.0
 pkgrel=1
 pkgdesc="Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications."
@@ -21,7 +21,7 @@ backup=('etc/kubernetes/apiserver'
 	'etc/kubernetes/proxy'
 	'etc/kubernetes/scheduler')
 install=kubernetes.install
-sha256sums=('68809d34d3429685eaafedf398f690bba1bcc1f793cd2d8193559b90492c68b1'
+sha256sums=('467201c89d473bdec82a67c9b24453a2037eef1a1ed552f0dc55310355d21ea3'
             'ab36d4243baf8cd47aba94f22f4c41a2980cf2ffca51ccda28b1e7685f500282'
             'f40b4b14a71f8138de69021e967d993e8b14db2cebe66eee20c7e66839ad1fde')
 
